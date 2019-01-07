@@ -1,0 +1,45 @@
+
+
+A, A:visited {    
+	color: rgb(185, 186, 187);
+}
+body {
+	background-color: rgb(23, 28, 32);
+	font-family: monospace;
+}
+.menu {
+	color: rgb(185, 186, 187);
+	border: 1px solid rgb(57, 61, 65);
+	background-color: rgb(34, 39, 43);	
+}
+.login {
+	color: rgb(185, 186, 187);
+	border: 1px solid rgb(57, 61, 65);
+	background-color: rgb(34, 39, 43);
+}
+.login form {
+	margin-left: 64px;
+	margin-top: 16px;
+}
+.upload, .files {
+	margin-top: 10px;
+	padding-top: 5px;
+	color: rgb(185, 186, 187);
+	border: 1px solid rgb(57, 61, 65);
+	background-color: rgb(34, 39, 43);
+	padding-left: 15px;
+}
+.files table, tr, td, th{
+	color: rgb(185, 186, 187);
+	border: 1px solid rgb(57, 61, 65);
+	border-collapse: collapse;
+}
+.menu ul {
+	margin-left: -30px;
+}
+.menu li {
+	display: inline-table;
+}
+.files {
+	border: 1px solid #323232;
+}

@@ -1,8 +1,8 @@
 # fileshill
-![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screen_1.png)
-![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screen_2.png)
-![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screen_3.png)
-![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screen_4.png)
+![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screens/screen_1.png)
+![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screens/screen_2.png)
+![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screens/screen_3.png)
+![fileshill screen](https://raw.githubusercontent.com/born-to-die/fileshill/master/screens/screen_4.png)
 
 DESCRIPTION
 
